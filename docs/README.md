@@ -1,6 +1,9 @@
 # Exoplanet Detection System
 ## NASA Space Apps Challenge 2025
 
+<img width="1906" height="1015" alt="image" src="https://github.com/user-attachments/assets/b95cfca0-4c57-4f03-92bb-993a5cee9991" />
+
+
 ### Overview
 
 The Exoplanet Detection System is an advanced machine learning application designed to automatically identify exoplanet candidates from space telescope data. Built specifically for NASA's Space Apps Challenge 2025, this system demonstrates the potential of artificial intelligence in astronomical research and exoplanet discovery.
