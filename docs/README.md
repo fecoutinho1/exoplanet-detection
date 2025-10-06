@@ -52,7 +52,8 @@ The KOI dataset includes comprehensive quality assessment flags that help distin
 - Instrumental artifacts
 - Contamination from nearby stars
 - Eclipsing binary stars
--
+
+### Insights
 
 <img width="653" height="454" alt="output6" src="https://github.com/user-attachments/assets/ecfbd039-9e2f-4bed-8c57-720e6af46009" />
 <img width="507" height="410" alt="output1" src="https://github.com/user-attachments/assets/68383e97-c5c4-409a-8811-f14fc2b54d4f" />
