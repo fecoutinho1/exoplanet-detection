@@ -1,6 +1,9 @@
 # Exoplanet Detection System
 ## NASA Space Apps Challenge 2025
 
+
+<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/3687ad61-4f97-449c-8e67-3d97db039dd8" />
+
 <img width="1906" height="1015" alt="image" src="https://github.com/user-attachments/assets/b95cfca0-4c57-4f03-92bb-993a5cee9991" />
 
 
