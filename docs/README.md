@@ -2,9 +2,9 @@
 ## NASA Space Apps Challenge 2025
 
 
-<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/3687ad61-4f97-449c-8e67-3d97db039dd8" />
-
 <img width="1916" height="1037" alt="image" src="https://github.com/user-attachments/assets/7495b549-643f-4bb6-8c7c-ff16a10bb470" />
+
+<img width="1918" height="1027" alt="Captura de tela 2025-10-06 005902" src="https://github.com/user-attachments/assets/135e18dd-e370-4ac3-8515-98715813b44e" />
 
 
 ### Overview
